@@ -1,0 +1,7 @@
+a [ 1 2 2 3 5 ]
+k 2
+ans 1
+ans 1
+ans 1
+ans 2
+ans 5
