@@ -1,0 +1,3 @@
+area 10
+area 6
+area 3
